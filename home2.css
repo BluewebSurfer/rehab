@@ -238,7 +238,7 @@ background: linear-gradient(to right, rgb(26 93 79) , rgba(96,204,182,1));
 }*/
 
 .column2 {
-  float: left;
+  float: right;
   width: 30%;
   padding: 0 20px;
 
